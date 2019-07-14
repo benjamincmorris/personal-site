@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Benjamin C. Morris
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Graduate Student in Psychology
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Chicago
+  url: "https://psychology.uchicago.edu/directory/benjamin-morris"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a graduate student in Psychology at the University of Chicago, working with Dan Yurovsky and Alex Shaw. 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Early Communication
+- Common Ground
+- Theory of Mind
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Psychology
+    institution: University of Chicago
+    year: Present
+  - course: MPhil in Social and Developmental Psychooogy
+    institution: University of Cambridge
+    year: 2016
+  - course: BA in Psychology
+    institution: Reed College
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,16 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: 'mailto:benmorris@uchicago.edu'  # For a direct email link, use "mailto:test@example.org".
+<!-- - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
+  link: https://twitter.com/GeorgeCushen -->
+<!-- - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ -->
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/benjamincmorris
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a second year doctoral student in the Psychology at the Univeristy of Chicago. I work with Dan Yurovsky at the Communication and Learning Lab (Carnegie Mellon Univeristy) and Alex Shaw at the Developmental Investigations of Behavior and Strategy Lab (University of Chicago). 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Broadly, I work on the interplay between language and social cognition across development. I am interested in how children make use of social information in language, and make use of language to infer social information. I am also interested in early reasoning about hearsay
