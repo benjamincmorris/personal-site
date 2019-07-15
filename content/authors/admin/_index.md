@@ -21,7 +21,8 @@ organizations:
 bio: I am a graduate student in Psychology at the University of Chicago, working with Dan Yurovsky and Alex Shaw. 
 
 interests:
-- Early Communication
+- Language Learning
+- Communication
 - Common Ground
 - Theory of Mind
 
@@ -30,7 +31,7 @@ education:
   - course: PhD in Psychology
     institution: University of Chicago
     year: Present
-  - course: MPhil in Social and Developmental Psychooogy
+  - course: MPhil in Social and Developmental Psychology
     institution: University of Cambridge
     year: 2016
   - course: BA in Psychology
@@ -74,6 +75,8 @@ user_groups:
 - Visitors
 ---
 
-I am a second year doctoral student in the Psychology at the Univeristy of Chicago. I work with Dan Yurovsky at the Communication and Learning Lab (Carnegie Mellon Univeristy) and Alex Shaw at the Developmental Investigations of Behavior and Strategy Lab (University of Chicago). 
+I am a second year doctoral student in Psychology at the Univeristy of Chicago. I work with Dan Yurovsky at the [Communication and Learning Lab](https://callab.uchicago.edu/) (Carnegie Mellon Univeristy) and Alex Shaw at the [Developmental Investigations of Behavior and Strategy Lab](https://www.dibslab.uchicago.edu/) (University of Chicago). Prior to coming to the University of Chicago, I worked with [Claire Hughes](https://www.cfr.cam.ac.uk/directory/ClaireHughes) at the University of Cambridge and [Jennifer Henderlong Corpus](https://www.reed.edu/psychology/faculty/corpus.html) at Reed College. 
 
-Broadly, I work on the interplay between language and social cognition across development. I am interested in how children make use of social information in language, and make use of language to infer social information. I am also interested in early reasoning about hearsay
+Broadly, I work on the interplay between language and social cognition across development. Effective communication often requires adpating to one's interlocutor and tracking their knowledge. I am interested in how children make use of social information in language, and make use of language to infer social information. I am also interested in how children think of language from social agents as an information source, for example early emerging intuitions about hearsay. 
+
+
