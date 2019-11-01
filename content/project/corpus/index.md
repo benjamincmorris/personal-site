@@ -1,6 +1,6 @@
 ---
 title: Atypical Feature Descritpion in Language Input
-summary: Child language input reflects atypical more than typical features.
+summary: Child language input reflects atypical more than typical features. More description of typical features early in development may provide a foothold for young learners.
 tags:
 - Communicative-Pressure
 date: "2016-04-27T00:00:00Z"
@@ -30,4 +30,4 @@ url_video: ""
 slides: example
 ---
 
-Child language input reflects notable more than typical features. More description of typical features early in development may provide a foothold for young learners.
+Child language input reflects atypical more than typical features. More description of typical features early in development may provide a foothold for young learners.
