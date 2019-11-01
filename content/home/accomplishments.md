@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = ""
   date_end = ""
-  description = "Caregivers’ desire to communicate successfully, and callibrate to their child's nascent linguistic knowledge, may play a powerful role in structuring children’s input in order to support language learning."
+  description = """Caregivers’ desire to communicate successfully, and callibrate to their child's nascent linguistic knowledge, may play a powerful role in structuring children’s input in order to support language learning."""
 
 [[item]]
   organization = ""
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = ""
   date_end = ""
-  description = "Child language input reflects notable more than typical features. More description of typical features early in development may provide a foothold for young learners."
+  description = """Child language input reflects notable more than typical features. More description of typical features early in development may provide a foothold for young learners."""
 
 
 [[item]]
@@ -47,6 +47,6 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = ""
   date_end = ""
-  description = "In this project I am exploring when children do and do not use speech disfluencies (e.g., 'umm') to infer a speaker's knowledge."
+  description = """In this project I am exploring when children do and do not use speech disfluencies (e.g., 'umm') to infer a speaker's knowledge."""
 
 +++
