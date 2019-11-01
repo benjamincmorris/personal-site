@@ -12,5 +12,4 @@ header:
   caption: "testing"
   image: ""
 
-"Cognitive Development Society"
 ---
