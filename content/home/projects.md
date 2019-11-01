@@ -44,7 +44,7 @@ subtitle = "What I am working on these days."
   view = 5
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows = false
+  flip_alt_rows = true
 
 [design.background]
   # Apply a background color, gradient, or image.
