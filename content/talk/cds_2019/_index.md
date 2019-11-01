@@ -3,13 +3,13 @@ title: Poster
 event: Cognitive Development Society
 event_url: https://cogdevsoc.org/
 
-#location: Source Themes HQ
-#address:
-#  street: 450 Serra Mall
-#  city: Stanford
-#  region: CA
-#  postcode: '94305'
-#  country: United States
+location: Louisville, KY
+address:
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: '94305'
+  country: United States
 
 summary: Child language input does not reflect world frequency: Typical and atypical feature description across development.
 abstract: ""
