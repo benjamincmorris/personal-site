@@ -19,13 +19,14 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
+  organization = "Corpus Analysis, Experimental, Computational Models"
   organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  title = "Communicative Pressure and Language Learning"
   url = ""
   certificate_url = "https://www.coursera.org"
   date_start = "2018-10-01"
   date_end = ""
-  description = ""
+  description = """Caregivers’ desire to communicate successfully, and callibrate to their child's nascent linguistic knowledge, may play a powerful role in structuring children’s input in order to support language learning."""
+
 
 +++
