@@ -77,7 +77,7 @@ user_groups:
 ---
 
 
-*Note:* This site is still under construction. 
+**Note:** This site is still under construction. 
 
 
 I am a second year doctoral student in Psychology at the Univeristy of Chicago. I work with Dan Yurovsky at the [Communication and Learning Lab](https://callab.uchicago.edu/) (Carnegie Mellon Univeristy) and Alex Shaw at the [Developmental Investigations of Behavior and Strategy Lab](https://www.dibslab.uchicago.edu/) (University of Chicago). Prior to coming to the University of Chicago, I worked with [Claire Hughes](https://www.cfr.cam.ac.uk/directory/ClaireHughes) at the University of Cambridge and [Jennifer Henderlong Corpus](https://www.reed.edu/psychology/faculty/corpus.html) at Reed College. 
