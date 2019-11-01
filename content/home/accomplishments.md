@@ -18,14 +18,36 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
 [[item]]
   organization = "Corpus Analysis, Experimental, Computational Models"
-  organization_url = "https://callab.uchicago.edu/papers/morris_cogsci2019.pdf"
+  organization_url = ""
   title = "Communicative Pressure and Language Learning"
-  url = ""
-  certificate_url = "https://callab.uchicago.edu/papers/morris_cogsci2019.pdf"
+  url = "https://callab.uchicago.edu/papers/morris_cogsci2019.pdf"
+  certificate_url = ""
   date_start = "2018-10-01"
   date_end = ""
   description = """Caregivers’ desire to communicate successfully, and callibrate to their child's nascent linguistic knowledge, may play a powerful role in structuring children’s input in order to support language learning."""
+
+[[item]]
+  organization = "Corpus Analysis"
+  organization_url = ""
+  title = "Description of the Atypical in Language Input"
+  url = "https://callab.uchicago.edu/posters/morris_bergey_yurovsky_cds_2019_final.pdf"
+  certificate_url = ""
+  date_start = "2018-10-01"
+  date_end = ""
+  description = """Child language input reflects notable more than typical features. More description of typical features early in development may provide a foothold for young learners."""
+
+
+[[item]]
+  organization = "Experimental, Developmental"
+  organization_url = ""
+  title = "Speech Disfluencies and Knowledge"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-10-01"
+  date_end = ""
+  description = """In this project I am exploring when children do and do not use speech disfluencies (e.g., 'umm') to infer a speaker's knowledge."""
 
 +++
