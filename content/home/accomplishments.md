@@ -20,13 +20,14 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Corpus Analysis, Experimental, Computational Models"
-  organization_url = "https://www.coursera.org"
+  organization_url = "https://callab.uchicago.edu/papers/morris_cogsci2019.pdf"
   title = "Communicative Pressure and Language Learning"
   url = ""
   certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  date_start = "1"
   date_end = ""
   description = """Caregivers’ desire to communicate successfully, and callibrate to their child's nascent linguistic knowledge, may play a powerful role in structuring children’s input in order to support language learning."""
+
 
 
 +++
