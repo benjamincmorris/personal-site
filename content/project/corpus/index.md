@@ -1,7 +1,7 @@
 ---
 title: Atypical Feature Descritpion in Language Input
 summary: Child language input reflects atypical more than typical features.
-tags:
+tags: Corpus Analysis
 - Communicative-Pressure
 date: "2016-04-27T00:00:00Z"
 
