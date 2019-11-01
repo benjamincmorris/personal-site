@@ -47,6 +47,6 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = ""
   date_end = ""
-  description = "In this project I am exploring when children do and do not use speech disfluencies (e.g., "umm") to infer a speaker's knowledge."
+  description = "In this project I am exploring when children do and do not use speech disfluencies (e.g., 'umm') to infer a speaker's knowledge."
 
 +++
