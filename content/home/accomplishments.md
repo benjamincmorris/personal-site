@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Corpus Analysis, Experimental, Computational Models"
-  organization_url = "https://callab.uchicago.edu/papers/morris_cogsci2019.pdf"
+  organization_url = "https://callab.uchicago.edu/papers/morris_cogsci2019.pdf "
   title = "Communicative Pressure and Language Learning"
   url = ""
   certificate_url = ""
