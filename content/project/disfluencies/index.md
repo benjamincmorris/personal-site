@@ -1,6 +1,6 @@
 ---
 title: Disfluencies
-summary: An example of using the in-built project page.
+summary: Speech Disfluencies and Knowledge Inferences.
 tags:
 - Disfluencies
 date: "2016-04-27T00:00:00Z"
