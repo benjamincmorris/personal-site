@@ -2,11 +2,11 @@
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Projects"
-subtitle = "What I am working on"
+subtitle = "What I am working on pt 2"
 
 [content]
   # Page type to display. E.g. project.
@@ -22,8 +22,8 @@ subtitle = "What I am working on"
   filter_default = 0
   
   [[content.filter_button]]
-     name = "Speech Disfluencies and Knowledge"
-     tag = "*"
+  #   name = "Speech Disfluencies and Knowledge"
+  #   tag = "*"
   
   # [[content.filter_button]]
   #   name = "Deep Learning"

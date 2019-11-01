@@ -21,11 +21,10 @@ organizations:
 bio: I am a graduate student in Psychology at the University of Chicago, working with Daniel Yurovsky and Alex Shaw. 
 
 interests:
-- Language Acquisition
 - Communication
-- Common Ground
 - Social Cognition
 - Theory of Mind
+- Common Ground
 - Hearsay
 
 education:
