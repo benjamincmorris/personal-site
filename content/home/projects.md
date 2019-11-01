@@ -25,7 +25,7 @@ subtitle = ""
      name = "Disfluencies"
      tag = "*"
   
-  # [[content.filter_button]]
+  [[content.filter_button]]
       name = "Communicative-Pressure"
       tag = "*"
   
