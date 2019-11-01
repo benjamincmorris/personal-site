@@ -1,12 +1,12 @@
 ---
-title: Communicative Pressure
-summary: Caregivers adjust their speech to their child's knowledge.
+title: Atypical Feature Descritpion in Language Input
+summary: Child language input reflects atypical more than typical features.
 tags:
 - Communicative-Pressure
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://callab.uchicago.edu/papers/morris_cogsci2019.pdf"
+external_link: "https://callab.uchicago.edu/posters/morris_bergey_yurovsky_cds_2019_final.pdf"
 
 image:
   caption: Photo by rawpixel on Unsplash
@@ -30,4 +30,4 @@ url_video: ""
 slides: example
 ---
 
-Caregivers’ desire to communicate successfully, and callibrate to their child’s nascent linguistic knowledge, may play a powerful role in structuring children’s input in order to support language learning.
+Child language input reflects notable more than typical features. More description of typical features early in development may provide a foothold for young learners.
