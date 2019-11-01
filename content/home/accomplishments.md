@@ -22,12 +22,10 @@ date_format = "Jan 2006"
   organization = "Corpus Analysis, Experimental, Computational Models"
   organization_url = ""
   title = "Communicative Pressure and Language Learning"
-  url = "https://callab.uchicago.edu/papers/morris_cogsci2019.pdf"
+  url = https://callab.uchicago.edu/papers/morris_cogsci2019.pdf
   certificate_url = ""
-  date_start = "1"
+  date_start = "1-30-2019"
   date_end = ""
   description = """Caregivers’ desire to communicate successfully, and callibrate to their child's nascent linguistic knowledge, may play a powerful role in structuring children’s input in order to support language learning."""
-
-
 
 +++
