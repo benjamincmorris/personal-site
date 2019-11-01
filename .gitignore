@@ -1,2 +1,5 @@
-public/
-.idea/
+# ignore all logs
+*.log
+
+# ignore all logs
+*.DS_Store
