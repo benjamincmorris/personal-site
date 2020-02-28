@@ -6,7 +6,7 @@ tags:
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://callab.uchicago.edu/posters/morris_bergey_yurovsky_cds_2019_final.pdf"
+external_link: "https://benjamincmorris.com/project/corpus/morris_bergey_yurovsky_cds_2019_final.pdf"
 
 image:
   caption: Photo by rawpixel on Unsplash
