@@ -18,13 +18,13 @@ organizations:
   url: "https://psychology.uchicago.edu/directory/benjamin-morris"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a graduate student in Psychology at the University of Chicago, working with Daniel Yurovsky and Alex Shaw. 
+bio: I am a graduate student in Developmental Psychology at the University of Chicago, working with Daniel Yurovsky and Alex Shaw. 
 
 interests:
 - Communication
+- Common Ground
 - Social Cognition
 - Theory of Mind
-- Common Ground
 - Hearsay
 
 education:
