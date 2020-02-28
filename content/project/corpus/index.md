@@ -1,6 +1,6 @@
 ---
-title: Atypical Feature Descritpion in Language Input
-summary: Child language input reflects atypical more than typical features. More description of typical features early in development may provide a foothold for young learners.
+title: Children hear more about what is atypically true
+summary: How do parents describe concepts to their young children? In a corpus analysis, we show they discuss far more atypical features of concepts than typical ones (e.g., kids hear way more talk about carrots that aren't orange, than carrots that are orange).
 tags:
 - Communicative-Pressure
 date: "2016-04-27T00:00:00Z"

@@ -1,6 +1,6 @@
 ---
 title: Speech Disfluencies
-summary: In this project I am exploring when children do and do not use speech disfluencies (e.g., ‘umm’) to infer a speaker’s knowledge.
+summary: How do children use simple language cues to infer mental states? In this project we are exploring when children do and do not use speech disfluencies (e.g., ‘umm’) to infer a speaker’s knowledge. 
 tags:
 - Disfluencies
 date: "2016-04-27T00:00:00Z"

@@ -1,6 +1,6 @@
 ---
 title: Communicative Pressure
-summary: Caregivers adjust their speech to their child's knowledge.
+summary: Adults modify their speech to children in all sorts of ways, even sometimes tuning to a child's knowledge level. In this project we demonstrate that pressure to communicate successfully could give rise to such modifications.
 tags:
 - Communicative-Pressure
 date: "2016-04-27T00:00:00Z"
