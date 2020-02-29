@@ -5,7 +5,7 @@ publishDate: 2020-02-29T00:21:22.656870Z
 authors: ["ManyBabies Consortium"]
 publication_types: ["2"]
 abstract: ""
-featured: false
+featured: true
 publication: "*Advances in Methods and Practices in Psychological Science*"
 ---
 

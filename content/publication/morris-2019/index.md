@@ -5,7 +5,7 @@ publishDate: 2020-02-29T00:21:22.657730Z
 authors: ["Benjamin C. Morris", "Daniel Yurovsky"]
 publication_types: ["1"]
 abstract: ""
-featured: false
+featured: true
 publication: "*Proceedings of the 41st Annual Conference of the Cognitive Science Society*"
 ---
 
