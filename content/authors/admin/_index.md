@@ -18,7 +18,7 @@ organizations:
   url: "https://psychology.uchicago.edu/directory/benjamin-morris"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a graduate student in Developmental Psychology at the University of Chicago, working with Daniel Yurovsky and Alex Shaw. 
+bio: I am a graduate student in Developmental Psychology at the University of Chicago, working with Alex Shaw and Daniel Yurovsky. 
 
 interests:
 - Communication
@@ -76,12 +76,14 @@ user_groups:
 - Visitors
 ---
 
+I am a second year doctoral student in Developmental Psychology at the University of Chicago. I work with Alex Shaw at the [Developmental Investigations of Behavior and Strategy Lab](https://www.dibslab.uchicago.edu/) (University of Chicago) and Dan Yurovsky at the [Communication and Learning Lab](https://callab.uchicago.edu/) (Carnegie Mellon University). 
 
-**Note:** This site is still under construction. 
+Broadly, I work on the intersection between language and social cognition across development. I am especially interested in how children evaluate and integrate information from other people, and how they begin to successfully transmit information themselves (to communicate effectively in conversation, or to convince others in argumentation). In order to communicate and learn effectively, children need to be able to infer who knows what and how much-- I am studying the language cues that drive children's inferences about knowledge, and their emerging theories of knowledge generally. To address these questions, I employ behavioral experiments with adults and children, corpus analysis, and computational modeling.
+
+Prior to coming to the University of Chicago, I worked with [Claire Hughes](https://www.cfr.cam.ac.uk/directory/ClaireHughes) at the University of Cambridge and [Jennifer Henderlong Corpus](https://www.reed.edu/psychology/faculty/corpus.html) at Reed College. 
 
 
-I am a second year doctoral student in Psychology at the Univeristy of Chicago. I work with Dan Yurovsky at the [Communication and Learning Lab](https://callab.uchicago.edu/) (Carnegie Mellon Univeristy) and Alex Shaw at the [Developmental Investigations of Behavior and Strategy Lab](https://www.dibslab.uchicago.edu/) (University of Chicago). Prior to coming to the University of Chicago, I worked with [Claire Hughes](https://www.cfr.cam.ac.uk/directory/ClaireHughes) at the University of Cambridge and [Jennifer Henderlong Corpus](https://www.reed.edu/psychology/faculty/corpus.html) at Reed College. 
 
-Broadly, I work on the interplay between language and social cognition across development. I am especially interested in emerging conceptions of knowledge and knowledge transmission, and in the language cues that drive children's inferences about knowledge. 
+<!-- Broadly, I work on the intersection between language and social cognition across development. I am especially interested in emerging conceptions of knowledge, and in the language cues that drive children's inferences about knowledge. I am also interested in how children reason about knowledge transmission, espeically via language. To address these questions, I employ behavioral experiments with adults and children, corpus analysis, and computational modeling. -->
 
 
