@@ -23,9 +23,7 @@ bio: I am a graduate student in Developmental Psychology at the University of Ch
 interests:
 - Communication
 - Common Ground
-- Social Cognition
 - Theory of Mind
-- Hearsay
 
 education:
   courses:
@@ -76,9 +74,9 @@ user_groups:
 - Visitors
 ---
 
-I am a second year doctoral student in Developmental Psychology at the University of Chicago. I work with Alex Shaw at the [DIBS Lab](https://www.dibslab.uchicago.edu/) (University of Chicago) and Dan Yurovsky at the [Communication and Learning Lab](https://callab.uchicago.edu/) (Carnegie Mellon University). 
+I am a third year doctoral student in Developmental Psychology at the University of Chicago. I work with Alex Shaw at the [DIBS Lab](https://www.dibslab.uchicago.edu/) and Dan Yurovsky at the [Communication and Learning Lab](https://callab.uchicago.edu/). 
 
-Broadly, I work on the intersection between language and social cognition across development. I am especially interested in how children evaluate and integrate information from other people, and how they begin to transmit information to other people (to communicate successfully in conversation, or to convince others in argumentation). In order to do this sucessfully, children first need to be able to infer who knows what and how much-- I am currently studying the language cues that drive children's inferences about knowledge, and their emerging theories of knowledge generally. To address these questions, I rely on behavioral experiments with adults and children, corpus analysis, and computational modeling.
+Broadly, I am interested in the intersection between language and social cognition across development. My current work explores the language cues that children use to infer others' mental-states, as well as how language is adapted to a listeners mental-states. Methodologically, I rely on behavioral experiments with adults and children, corpus analysis, and computational modeling.
 
 Prior to coming to the University of Chicago, I worked with [Claire Hughes](https://www.cfr.cam.ac.uk/directory/ClaireHughes) at the University of Cambridge and [Jennifer Henderlong Corpus](https://www.reed.edu/psychology/faculty/corpus.html) at Reed College. 
 
@@ -86,4 +84,5 @@ Prior to coming to the University of Chicago, I worked with [Claire Hughes](http
 
 <!-- Broadly, I work on the intersection between language and social cognition across development. I am especially interested in emerging conceptions of knowledge, and in the language cues that drive children's inferences about knowledge. I am also interested in how children reason about knowledge transmission, espeically via language. To address these questions, I employ behavioral experiments with adults and children, corpus analysis, and computational modeling. -->
 
+<!-- I am especially interested in how children evaluate and integrate information from other people, and how they begin to transmit information to other people (to communicate successfully in conversation, or to convince others in argumentation). In order to do this sucessfully, children first need to be able to infer who knows what and how much-- I am currently studying the language cues that drive children's inferences about knowledge, and their emerging theories of knowledge generally. -->
 
