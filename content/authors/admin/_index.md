@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Benjamin C. Morris
+name: Ben Morris
 
 # Username (this should match the folder name)
 authors:
@@ -18,7 +18,7 @@ organizations:
   url: "https://psychology.uchicago.edu/directory/benjamin-morris"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a graduate student in Developmental Psychology at the University of Chicago, working with Alex Shaw and Daniel Yurovsky. 
+bio: I am a graduate student in Developmental Psychology at the University of Chicago, working with Alex Shaw, and also Daniel Yurovsky at Carnegie Mellon University. 
 
 interests:
 - Communication
@@ -74,7 +74,7 @@ user_groups:
 - Visitors
 ---
 
-I am a third year doctoral student in Developmental Psychology at the University of Chicago. I work with Alex Shaw at the [DIBS Lab](https://www.dibslab.uchicago.edu/) and Dan Yurovsky at the [Communication and Learning Lab](https://callab.uchicago.edu/). 
+I am a doctoral student in Developmental Psychology at the University of Chicago. I work with Alex Shaw at the [DIBS Lab](https://www.dibslab.uchicago.edu/) and Dan Yurovsky at the [Communication and Learning Lab](https://callab.uchicago.edu/). 
 
 Broadly, I am interested in the intersection between language and social cognition across development. My current work explores the language cues that children use to infer others' mental-states, as well as how children adapt language to a listener's mental-states. Methodologically, I rely on behavioral experiments with adults and children, corpus analysis, and computational modeling.
 
