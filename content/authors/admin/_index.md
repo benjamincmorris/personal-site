@@ -74,7 +74,7 @@ user_groups:
 - Visitors
 ---
 
-**Note:** This site is under construction.
+**Note:** This site is currently under construction.
 
 Everday conversation is a ubiquitous testbed of mental-state reasoning. Broadly, I am interested in how children rely on and exploit social reasoning in conversational contexts. To become smooth conversationalists, young children must learn to extract social information from language to learn about people, and also recruit social information to learn language. In much of my work, I explore how children infer social meaning not from *what* someone says, but from *how* (and especially how quickly) they say it. Methodologically, I rely on behavioral experiments with adults and children, corpus analysis, and computational modeling.
 
